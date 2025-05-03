@@ -1,3 +1,9 @@
 requests==2.32.3
 dotenv
 ipykernel
+ipywidgets
+transformers
+transformers[torch]
+torch
+numpy<2
+huggingface_hub[hf_xet]
